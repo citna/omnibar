@@ -89,6 +89,7 @@ addon.Cooldowns = {
     [370965] = {duration = 90, class = "DEMONHUNTER"}, -- The Hunt
     [204596] = {duration = 30, class = "DEMONHUNTER"}, -- Sigil of Flame
     [207684] = {duration = 90, class = "DEMONHUNTER"}, -- Sigil of Misery
+    [278326] = {duration = 10, class = "DEMONHUNTER"}, -- Consume Magic
 
 		-- Havoc
 
@@ -110,7 +111,7 @@ addon.Cooldowns = {
 
     -- Priest
 
-    [586] = {duration = 30, class = "PRIEST"}, -- Fade
+    [586] = {duration = 20, class = "PRIEST"}, -- Fade
     [32375] = {duration = 45, class = "PRIEST"}, -- Mass Dispel
     [375901] = {duration = 45, class = "PRIEST"}, -- Mindgames
     [316262] = {duration = 90, class = "PRIEST"}, -- Thoughtsteal
@@ -649,7 +650,7 @@ addon.Cooldowns = {
     [386276] = {duration = 60, class = "MONK"}, -- Bonedust Brew
     [115203] = {duration = 360, class = "MONK"}, -- Fortifying Brew
     [116705] = {default = true, duration = 15, class = "MONK"}, -- Spear Hand Strike
-    [202370] = {duration = 60, class = "MONK"}, -- Mighty Ox Kick
+    [202370] = {duration = 30, class = "MONK"}, -- Mighty Ox Kick
     [322109] = {duration = 90, class = "MONK"}, -- Touch of Death
     [233759] = {duration = 45, class = "MONK"}, -- Grapple Weapon
 
